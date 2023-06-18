@@ -1,0 +1,14 @@
+p{
+    color: brown;
+}
+div{
+    background-color: blueviolet;
+    border-radius: 5px;
+    margin: 20px;
+    border: 2px solid black;
+    padding: 20px;
+}
+img{
+    padding: 20px;
+    margin-left: 450px;
+}
